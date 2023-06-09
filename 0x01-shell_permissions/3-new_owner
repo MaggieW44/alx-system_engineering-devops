@@ -1,0 +1,4 @@
+#!/bin/bash
+ ls -l
+ sudo ./3-new_owner
+
