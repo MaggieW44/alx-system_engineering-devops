@@ -1,1 +1,1 @@
-where am i
+List all files in the long format
